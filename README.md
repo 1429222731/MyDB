@@ -29,7 +29,7 @@ MyDB 是一个 Java 实现的简单的数据库，部分原理参照自 MySQL、
 4. Index Manager (IM)         ==> 索引管理模块
 5. Table Manager (TBM)        ==> 表管理模块
 ```
-![img_3.png](img_3.png)
+![img_3.png](imgs/img_3.png)
 
 每个模块的职责如下：
 
@@ -87,12 +87,12 @@ mvn exec:java -Dexec.mainClass="com.charls.mydb.client.Launcher"
 
 CreataDB:
 
-![img.png](img.png)
+![img.png](imgs/img.png)
 
 OpenDB:
 
-![img_1.png](img_1.png)
+![img_1.png](imgs/img_1.png)
 
 Client:
 
-![img_2.png](img_2.png)
+![img_2.png](imgs/img_2.png)
